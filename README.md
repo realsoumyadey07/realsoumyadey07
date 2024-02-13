@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/realsoumyadey" target="blank"><img src="https://img.shields.io/twitter/follow/realsoumyadey?logo=twitter&style=for-the-badge" alt="realsoumyadey" /></a> </p>
 
-- 🔭 I’m currently working on [Inventory System](https://github.com/realsoumyadey07/BlackBox-sInventoryManagementSystem)
+- 🔭 I’m currently working on [Youtube clone]
 
 - 🌱 I’m currently learning **React**
 
