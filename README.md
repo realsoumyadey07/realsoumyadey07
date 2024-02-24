@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/realsoumyadey" target="blank"><img src="https://img.shields.io/twitter/follow/realsoumyadey?logo=twitter&style=for-the-badge" alt="realsoumyadey" /></a> </p>
 
-- 🔭 I’m currently working on [Youtube clone]
+- 🔭 I’m currently working on [E-commerce project]
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://realsoumyadey07.github.io/Portfolio/](https://realsoumyadey07.github.io/Portfolio/)
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **thedeveloper802@gmail.com**
+- 📫 How to reach me **soumyadipdey802@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
