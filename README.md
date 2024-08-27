@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://realsoumyadey07.github.io/Portfolio/](https://realsoumyadey07.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://realsoumyadey07.github.io/Portfolio/]([https://realsoumyadey07.github.io/Portfolio/](https://nextjs-portfolio-blue-nine.vercel.app/))
 
 - 💬 Ask me about **Web Development**
 
